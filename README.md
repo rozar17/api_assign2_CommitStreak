@@ -60,7 +60,7 @@ $ ruby -e 'print 123'
 
 # To run a ruby file
 ```
-create file name "simple_file.rb" with info <br />
+create file name "simple_file.rb" with info
 
 puts 123
 # Print does not add a line return

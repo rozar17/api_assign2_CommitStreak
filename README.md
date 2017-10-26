@@ -154,7 +154,7 @@ C:\Users\rozar>ri String#upcase <br />
 C:\Users\rozar>ri Object#inspect <br />
 
 
-
+Other useful info: https://github.com/rozar17/api_assign2_CommitStreak/wiki
 
 
 

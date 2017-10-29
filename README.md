@@ -40,7 +40,7 @@ Ruby on rails is a web framework written in Ruby. <br />
 * <a href="https://github.com/rozar17/api_assign2_CommitStreak/wiki/Ruby-Object-Types-Array-methods">Ruby Object Types - Array methods</a>
 * <a href="https://github.com/rozar17/api_assign2_CommitStreak/wiki/Ruby-Object-Types-Hashes">Ruby Object Types - Hashes</a>
 * <a href="https://github.com/rozar17/api_assign2_CommitStreak/wiki/Ruby-Object-Types-Others">Ruby Object Types - Others</a>
-
+* <a href="https://github.com/rozar17/api_assign2_CommitStreak/wiki/Control-Structures">Control Structures</a>
 
 
 

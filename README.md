@@ -1,4 +1,55 @@
 # Introduction
+The project here is from lynda.com online course "Ruby Essential Training" with Kevin Skoglund.
+
+
+You will require Ruby installed on your PC.
+
+
+# Installation
+For information how to install ruby, go to http://railsinstaller.org/en and download railsinstaller-3.4.0.exe.
+
+This package has more than you require to run this sample program on this gitHub as the downloaded exe file includes:
+* Ruby 2.3.3
+* Rails 5.1
+* Bundler
+* Git
+* Sqlite
+* TinyTDS
+* SQL Server Support
+* DevKit
+
+
+
+# Running the program
+
+Open Git Bash program and run the code below to download a copy of this project
+```
+git clone https://github.com/rozar17/api_assign2_CommitStreak.git
+```
+
+
+Go to where the project was downloaded. For example
+```
+cd C:/Sites/api_assign2_CommitStreak
+```
+
+
+Type
+```
+ruby init.rb
+```
+
+
+This is how your screen should look now.
+<img src="https://github.com/rozar17/api_assign2_CommitStreak/blob/master/img/1.jpg"/> <br /><br />
+
+
+
+
+
+
+
+
 This document is on Ruby
 
 

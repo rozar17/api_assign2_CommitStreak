@@ -1,0 +1,4 @@
+Roses Cafe	snack	5
+aaa	bbb	20
+Blue	Red	55
+pita pocket	fast food	10
